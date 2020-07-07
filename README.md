@@ -5,6 +5,6 @@
 
 ------
 
-**This is a very early project and the current layouts are not ready for production.**
+**This is a very early project and the components are not ready for production.**
 
-Interfaz is an open source collection of [tailwind](https://tailwindcss.com/)-based components that can be used in any project.
+Interfaz is an open source collection of ready-to-use [tailwind](https://tailwindcss.com/)-based components.
